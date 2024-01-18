@@ -2,14 +2,10 @@
 
 
 
-🎓 I work as a software developer consultant at Futurice in Stockholm    
-🔭 In my spare time I'm working on open source accessibility projects   
-🌱 I’m currently learning Next.js    
-💬 I would love to talk about open source and accessibility      
-👨‍💻 My portfolio is available at https://emmadawson.dev   
-📫 How to reach me: emma.l.dawson@gmail.com    
-📸 [My youtube channel](https://www.youtube.com/channel/UCNqgIdr3ycieeS9xZu1HYfg)  
-🔆 [Accessible For All - My Github Organization](https://github.com/AccessibleForAll)
+🎓 As a recent graduate, I am actively pursuing DevOps/SRE roles, bringing a fresh perspective and a strong foundation in relevant skills to contribute to a dynamic team
+🌱 I’m currently learning OpenTelemetry and Jaeger    
+💬 I would love to talk about devops and site reliability       
+📫 How to reach me: panchanandevops@gmail.com    
 
 
 
