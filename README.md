@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **projects based on OpenTelemetry and Jaeger**
 
-- 🌱 I’m currently learning **OpenTelemetry and Jaeger**
+- 🌱 I’m currently learning **Litmus and Pulumi**
 
 - 👨‍💻 All of my projects are available at [https://github.com/panchanandevops](https://github.com/panchanandevops)
 
