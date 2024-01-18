@@ -3,8 +3,11 @@
 
 
 🎓 As a recent graduate, I am actively pursuing DevOps/SRE roles, bringing a fresh perspective and a strong foundation in relevant skills to contribute to a dynamic team
+
 🌱 I’m currently learning OpenTelemetry and Jaeger    
-💬 I would love to talk about devops and site reliability       
+
+💬 I would love to talk about devops and site reliability  
+
 📫 How to reach me: panchanandevops@gmail.com    
 
 
