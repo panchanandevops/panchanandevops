@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning OpenTelemetry and Jaeger    
 
-💬 I would love to talk about devops and site reliability  
+💬 I would love to talk about devops and Site Reliability Engineering
 
 📫 How to reach me: panchanandevops@gmail.com    
 
