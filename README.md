@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/panchanandevops](https://github.com/panchanandevops)
 
-- 📝 I regularly write articles on [DEVOPS/SRE](DEVOPS/SRE)
+- 📝 I want to write articles on [DEVOPS/SRE](DEVOPS/SRE)
 
 - 💬 Ask me about **Docker,k8s,Istio,Terraform**
 
