@@ -2,7 +2,7 @@
 🎓 As a recent graduate, I am actively pursuing DevOps/SRE roles, bringing a fresh perspective and a strong foundation in relevant skills to contribute to a dynamic team
 
 
-- 🔭 I’m currently working on **projects based on OpenTelemetry and observability**
+- 🔭 I’m currently working on **projects based on observability**
 
 - 🌱 I’m currently learning **OpenTelemetry**
 
