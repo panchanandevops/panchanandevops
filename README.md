@@ -2,15 +2,15 @@
 🎓 As a recent graduate, I am actively pursuing DevOps/SRE roles, bringing a fresh perspective and a strong foundation in relevant skills to contribute to a dynamic team
 
 
-- 🔭 I’m currently working on **projects based on OpenTelemetry and Jaeger**
+- 🔭 I’m currently working on **projects based on OpenTelemetry and observability**
 
-- 🌱 I’m currently learning **Litmus and Pulumi**
+- 🌱 I’m currently learning **OpenTelemetry**
 
 - 👨‍💻 All of my projects are available at [https://github.com/panchanandevops](https://github.com/panchanandevops)
 
 - 📝 I want to write articles on [DEVOPS/SRE](DEVOPS/SRE)
 
-- 💬 Ask me about **Docker,k8s,Istio,Terraform**
+- 💬 Ask me about **Docker,K8s,Helm,Terraform**
 
 - 📫 How to reach me **panchanandevops@gmail.com**
 
